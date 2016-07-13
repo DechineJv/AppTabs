@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_fragment_a">Esta é a Fragment A</string>
+    <string name="text_fragment_b">Esta é a Fragment B</string>
+
+    <string-array name="titles_tab">
+        <item>Tab A</item>
+        <item>Tab B</item>
+    </string-array>
+</resources>
